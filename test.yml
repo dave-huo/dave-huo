@@ -1,0 +1,11 @@
+perEnvConfig:
+  nfsConfiguration:
+    hostname: "rsync.sc.intel.com"
+    username: "testing"
+    password: "ppwordy"
+    port: 22
+    poolMaxIdle: 3
+    poolMaxTotal: 15
+    poolMinIdle: 0
+    activeDisk: "HSDES-PreProd_01"
+
